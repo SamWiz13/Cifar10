@@ -8,10 +8,9 @@ The dataset is divided into five training batches and one test batch, each with 
 #### https://www.cs.toronto.edu/~kriz/cifar.html
 #
 # Getting Started
-## Clone repository
-#
+#### Clone repository
   git clone https://github.com/SamWiz13/Cifar10.git
-  
+#
   Install the python packages in requirements.txt if you don't have them already.
   pip install -r ./requirements.txt
   
