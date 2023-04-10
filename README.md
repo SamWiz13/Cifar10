@@ -17,6 +17,9 @@ The dataset is divided into five training batches and one test batch, each with 
 
 ####  Run the iPython tutorial notebook with Jupyter.
   jupyter lab ./Cifar10.ipynb
+ 
+#### Run the Streamlit
+   http://localhost:8501/
   
   
 
