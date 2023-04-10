@@ -1,3 +1,7 @@
-# Cifar10
-Cifar10 in Python
+# Cifar10  with Keras
+The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class.
+There are 50000 training images and 10000 test images.
+The dataset is divided into five training batches and one test batch, each with 10000 images.
+
+## https://www.cs.toronto.edu/~kriz/cifar.html
 
