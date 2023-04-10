@@ -9,10 +9,10 @@ The dataset is divided into five training batches and one test batch, each with 
 #
 # Getting Started
 #### Clone repository
-'''   git clone https://github.com/SamWiz13/Cifar10.git'''
+   git clone https://github.com/SamWiz13/Cifar10.git
 #
 ####  Install the python packages in requirements.txt if you don't have them already.
-  pip install -r ./requirements.txt
+  [pip install -r ./requirements.txt]
 #
 
 ####  Run the iPython tutorial notebook with Jupyter.
