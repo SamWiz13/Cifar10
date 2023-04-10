@@ -6,6 +6,8 @@ The dataset is divided into five training batches and one test batch, each with 
 #
 ## Cifar-10
 #### https://www.cs.toronto.edu/~kriz/cifar.html
-
-
+#
+# Getting Started
+  git clone https://github.com/SamWiz13/Cifar10
+  
 
